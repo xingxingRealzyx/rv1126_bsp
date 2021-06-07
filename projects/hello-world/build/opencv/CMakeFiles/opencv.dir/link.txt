@@ -1,0 +1,2 @@
+/home/zyx/toolchain/gcc-arm-8.3-2019.03-x86_64-arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar qc libopencv.a  CMakeFiles/opencv.dir/src/opencv_demo.c.obj
+/home/zyx/toolchain/gcc-arm-8.3-2019.03-x86_64-arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ranlib libopencv.a

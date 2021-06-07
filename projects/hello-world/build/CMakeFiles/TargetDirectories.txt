@@ -1,0 +1,15 @@
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/CMakeFiles/rebuild_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/CMakeFiles/edit_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/CMakeFiles/menuconfig.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/CMakeFiles/gen_exe_src.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/CMakeFiles/update_build_info.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/CMakeFiles/hello-world.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/bsp/CMakeFiles/rebuild_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/bsp/CMakeFiles/bsp.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/bsp/CMakeFiles/edit_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/npu/CMakeFiles/rebuild_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/npu/CMakeFiles/npu.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/npu/CMakeFiles/edit_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/main/CMakeFiles/rebuild_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/main/CMakeFiles/main.dir
+/home/zyx/repos/rv1126_bsp/projects/hello-world/build/main/CMakeFiles/edit_cache.dir

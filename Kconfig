@@ -1,0 +1,20 @@
+
+mainmenu "C/CPP CMake project framework Kconfig configuration"
+
+menu "Toolchain configuration"
+	config TOOLCHAIN_PATH
+		string "toolchain path"
+		default "/home/zyx/toolchain/gcc-arm-8.3-2019.03-x86_64-arm-linux-gnueabihf/bin"
+	
+	config TOOLCHAIN_PREFIX
+		string "toolchain prefix"
+		default "arm-linux-gnueabihf-"
+endmenu
+
+menu "Components configuration"
+	osource "${SDK_PATH}/components/*/Kconfig"
+	osource "${PROJECT_PATH}/*/Kconfig"
+endmenu
+
+
+

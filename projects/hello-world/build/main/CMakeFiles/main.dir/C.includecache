@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../main/include/hello.h
+
+/home/zyx/repos/rv1126_bsp/components/npu/include/rknn_api.h
+stdint.h
+-
+
+/home/zyx/repos/rv1126_bsp/projects/hello-world/main/src/main.c
+global_config.h
+/home/zyx/repos/rv1126_bsp/projects/hello-world/main/src/global_config.h
+global_build_info_time.h
+/home/zyx/repos/rv1126_bsp/projects/hello-world/main/src/global_build_info_time.h
+global_build_info_version.h
+/home/zyx/repos/rv1126_bsp/projects/hello-world/main/src/global_build_info_version.h
+stdio.h
+-
+hello.h
+/home/zyx/repos/rv1126_bsp/projects/hello-world/main/src/hello.h
+rknn_api.h
+/home/zyx/repos/rv1126_bsp/projects/hello-world/main/src/rknn_api.h
+
+config/global_build_info_time.h
+
+config/global_build_info_version.h
+
+config/global_config.h
+

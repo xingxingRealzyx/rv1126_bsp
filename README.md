@@ -1,2 +1,2 @@
 # rv1126_bsp
- Rv1126 application construction framework, AI algorithm demo , etc
+ Rv1126 application construction framework, npu algorithm demo , etc

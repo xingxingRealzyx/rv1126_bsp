@@ -1,0 +1,2 @@
+/home/zyx/toolchain/gcc-arm-8.3-2019.03-x86_64-arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar qc libmain.a  CMakeFiles/main.dir/src/drm_func.c.obj CMakeFiles/main.dir/src/main.cc.obj CMakeFiles/main.dir/src/postprocess.cc.obj CMakeFiles/main.dir/src/rga_func.c.obj
+/home/zyx/toolchain/gcc-arm-8.3-2019.03-x86_64-arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ranlib libmain.a

@@ -1,0 +1,15 @@
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/CMakeFiles/rebuild_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/CMakeFiles/menuconfig.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/CMakeFiles/gen_exe_src.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/CMakeFiles/update_build_info.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/CMakeFiles/edit_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/CMakeFiles/rv1126_vi_yolov5_vo.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/bsp/CMakeFiles/rebuild_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/bsp/CMakeFiles/bsp.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/bsp/CMakeFiles/edit_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/npu/CMakeFiles/rebuild_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/npu/CMakeFiles/npu.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/npu/CMakeFiles/edit_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/main/CMakeFiles/rebuild_cache.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/main/CMakeFiles/main.dir
+/home/zyx/repos/rv1126_bsp/projects/rv1126_vi_yolov5_vo/build/main/CMakeFiles/edit_cache.dir
